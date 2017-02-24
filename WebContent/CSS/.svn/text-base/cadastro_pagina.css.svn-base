@@ -1,0 +1,129 @@
+*{
+	margin:0px;
+}
+
+#corpo{
+	position:absolute;
+	background:#FFFFFF;
+	background-image:url(../IMG/menu.jpg);
+	background-repeat:repeat-x;
+}
+
+#logo{
+	float:left;
+	margin-top:68px;
+	margin-left:27px;
+}
+
+
+#cadastro{
+	width:1266px;
+	height:auto;
+	text-align:justify;
+	padding:20px;
+	margin-top:115px;
+	margin-left:30px;
+	margin-right:18px;
+	margin-bottom:30px;
+    background:#EEE9E9;
+	-moz-border-radius:10px 10px 10px 10px;
+	-webkit-border-radius:10px 10px 10px 10px;
+}
+
+#cad{
+	width:auto;
+	height:370px;
+	border:#999999;
+	padding:50px;
+	border-style:solid;
+	-moz-border-radius: 7px 0 7px 7px;
+	-webkit-border-radius: 7px 0 7px 7px;
+}
+
+#cad_form{
+	width:700px;
+	height:auto;
+	padding:50px;
+	margin: 20px 180px;
+	border-style:solid;
+	border-color:#CCCCCC;
+	-moz-border-radius: 7px 0 7px 7px;
+	-webkit-border-radius: 7px 0 7px 7px;
+}
+
+.form_leb{
+	width:150px;
+	height:10px;
+	padding:10px 10px 20px 10px;
+	font:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	border-style:none;
+	color:#006699;
+}
+
+.form_imp{
+	width:460px;
+	height:10px;
+	padding:10px 10px 20px 10px;
+	margin-top:-45px;
+	margin-left:180px;
+	font:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	border-style:none;
+	border-color:#CDC5BF;
+}
+
+#username:focus, .username:hover {
+	background-color:#F0FFE6;
+}
+
+#password:focus, .password:hover {
+	background-color:#F0FFE6;
+}
+
+input[type = "text"]{
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+}
+
+input[type = "password"]{	
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+}
+
+#botao_form {
+	width:100px;
+	height:40px;
+	margin-left:545px;
+	margin-top:20px;
+	background: #e3e3db;
+	font-size:12px; 
+	color:#0099CC; 
+	border-width: 2px;
+	border-style: solid;
+	border-color: #fff #d8d8d0 #d8d8d0 #fff;
+	text-decoration: none;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+
+#username{
+	background-image:url(../IMG/16m.png);
+	background-color:#FFFFFF;
+	background-repeat: no-repeat;
+	background-position:left;
+	padding-left:15px;
+	font:normal 17px Arial;
+	color: #999999;
+}
+
+
+#password {
+    	background-image:url(../IMG/16s.png);
+    	background-repeat: no-repeat;
+   	    background-position:left;
+     	background-color:#FFFFFF;
+		padding-left:18px;
+    	font:normal 17px Arial;
+    	color: #999999;
+}

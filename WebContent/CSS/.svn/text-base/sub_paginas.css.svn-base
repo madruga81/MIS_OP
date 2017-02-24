@@ -1,0 +1,13 @@
+*{
+	margin:0px;
+}
+
+.tabela_cli{
+	width: 800px;
+	heigth: 30px;
+}
+
+.tab_cli {
+	height: 20px;
+	width: 1000px;
+}

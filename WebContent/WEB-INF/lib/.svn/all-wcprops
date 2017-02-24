@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/MIS_OP/WebContent/WEB-INF/lib
+END
+jstl-api-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/MIS_OP/WebContent/WEB-INF/lib/jstl-api-1.2.jar
+END
+mysql-connector-java-5.1.15-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/MIS_OP/WebContent/WEB-INF/lib/mysql-connector-java-5.1.15-bin.jar
+END
+jstl-impl-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/MIS_OP/WebContent/WEB-INF/lib/jstl-impl-1.2.jar
+END

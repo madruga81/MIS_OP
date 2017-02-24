@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/MIS_OP/src/AplicBD
+END
+ClienteDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/MIS_OP/src/AplicBD/ClienteDAO.java
+END
+AltenticDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/MIS_OP/src/AplicBD/AltenticDAO.java
+END
+StatusDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/MIS_OP/src/AplicBD/StatusDAO.java
+END
+ProdutoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/MIS_OP/src/AplicBD/ProdutoDAO.java
+END
+CategoriaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/MIS_OP/src/AplicBD/CategoriaDAO.java
+END
+CadastroDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/MIS_OP/src/AplicBD/CadastroDAO.java
+END
+FabricaConexao.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/MIS_OP/src/AplicBD/FabricaConexao.java
+END
